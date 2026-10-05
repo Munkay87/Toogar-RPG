@@ -2,3 +2,4 @@ __pycache__/
 build/
 dist/
 find_python.py
+*.zip
